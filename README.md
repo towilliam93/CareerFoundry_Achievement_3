@@ -1,3 +1,9 @@
-# CareerFoundry_Achievement_3
+# Rockbuster-SQL-Analysis
 
-aaa
+A set of SQL queries used to analyze a database of a fictional DVD rental company. This project is a part of CareerFoundry's Data Analytics Immersive Course.
+
+# Objectives
+
+Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition, they are now planning on using their existing movie licenses to launch an online video rental service to stay competitive.
+
+The aim of the analysis is to use SQL to analyze the database and answer any business questions the other departments Rockbuster has.
